@@ -40,3 +40,8 @@ hr{
 .my_input{
     border: none;
 }
+
+.my_select .checkbox_items{
+    display: flex;
+    justify-content: space-between;
+}
